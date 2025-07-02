@@ -1,0 +1,7 @@
+# -------------- my block -------------------------------
+# mkdir build & cd build & cmake -G "MinGW Makefiles" ..
+
+set(CMAKE_C_COMPILER "C:/Sorcha/TDM-GCC-64/bin/gcc.exe")
+set(CMAKE_CXX_COMPILER "C:/Sorcha/TDM-GCC-64/bin/g++.exe")
+
+# -------------------------------------------------------
